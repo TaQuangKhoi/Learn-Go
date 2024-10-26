@@ -1,7 +1,7 @@
 Tutorial  | Description | URL
 --- | --- | ---
 Getting started | Say Hello, World with Go. | [GitHub Link](../src/greetings)
-Create a module | A multi-part tutorial that introduces common programming language features from the Go perspective. | [GitHub Link](../src/greetings)
+Create a module | A multi-part tutorial that introduces common programming language features from the Go perspective. | [greetings](https://github.com/TaQuangKhoi/Learn-Go/tree/main/Go%20Tutorials/src/greetings)
 Getting started with multi-module workspaces | Introduces the basics of creating and using multi-module workspaces in Go. Multi-module workspaces are useful for making changes across multiple modules. | [GitHub Link](../src/greetings)
 Accessing a relational database | Introduces the basics of accessing a database using the standard library. | [GitHub Link](../src/greetings)
 Developing a RESTful API with Go and Gin | Introduces the basics of writing a RESTful web service API with Go and the Gin Web Framework. | [GitHub Link](../src/greetings)
